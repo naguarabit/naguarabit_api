@@ -1,2 +1,2 @@
 # api.naguarabit
-API de Naguarabit remesas y pago
+API RESTfull de la plataforma Naguarabit (Remesas, pagos y regalos)
