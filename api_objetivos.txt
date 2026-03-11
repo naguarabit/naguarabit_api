@@ -1,0 +1,8 @@
+-registro de usuario
+-login con formulario
+-recuperar contraseña
+-cambiar contraseña
+-login con Google
+-cambio de email
+-cambio de teléfono
+-
